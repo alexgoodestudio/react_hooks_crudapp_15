@@ -1,0 +1,15 @@
+.house-list{
+border: solid;
+margin-right: auto;
+margin-left: auto;
+}
+
+.container {
+    padding: 15px;
+    background-color: rgb(194, 240, 255);
+    box-shadow: 0 6px 20px rgb(0 0 0 / 20%);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    
+  }
